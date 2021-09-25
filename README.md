@@ -8,3 +8,12 @@ El uso de este script es responsabilidad de quién lo ocupa no me hago responsab
 
 # Menu en termux:
 ![Image text](https://github.com/piratainformatico2/virusV1/blob/main/Images/Screenshot_20210925-112426.png)
+
+# Instalación
+
+* ` apt-get update && apt-get upgrade -y `
+
+* ` git clone https://github.com/piratainformatico2/virusV1 `
+* ` cd virusV1 `
+* ` chmod +x exe.sh
+* ` bash exe.sh or ./exe.sh
