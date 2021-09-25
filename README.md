@@ -7,6 +7,15 @@ Este un script pequeño pero muy poderoso me gustaría que descubras lo que pued
 El uso de este script es responsabilidad de quién lo ocupa no me hago responsable del mal uso que se le dé -sharkcode
 
 # Menu en termux:
+<details>
+<summary> sharkcode <3 </summary>
+<br>
+
+ - ` Ofuscado por José Díaz `
+ - ` No copiar `
+ - ` Copiar te hace igual de bruto que la p de psicología `
+
+</details>
 ![Image text](https://github.com/piratainformatico2/virusV1/blob/main/Images/Screenshot_20210925-112426.png)
 
 # Instalación
