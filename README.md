@@ -9,13 +9,18 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com)
 
 <details>
-<summary> sharkcode <3 </summary>
+<summary> ⚡ José Díaz ⚡ </summary>
 <br>
 
- - ` Ofuscado por José Díaz `
- - ` No copiar `
- - ` Copiar te hace igual de bruto que la p de psicología `
+- Hola Que tal soy José Díaz o sharkcode Mi objetivo es ser reconocido en la comunidad de la programación ⚡
 
+- Este repositorio lo hice con mucho mucho cariño, para todos ustedes que son de termux una terminal de Linux para Android 🎮
+
+- Si deseas contactarme >>> +52 2283821202 (MX) 🇲🇽
+
+- Si deseas apoyarme con una estrella en mis repositorios >>> [sharkcode](https://github.com/piratainformatico2)
+
+- ` NOTA: El script solo funciona en termux `
 </details>
 
 ![Image text](https://github.com/piratainformatico2/virusV1/blob/main/Images/Screenshot_20210925-112426.png)
