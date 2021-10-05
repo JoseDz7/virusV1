@@ -23,6 +23,7 @@
 - ` NOTA: El script solo funciona en termux `
 </details>
 
+## Menu inicial :
 ![Image text](https://github.com/piratainformatico2/virusV1/blob/main/Images/Screenshot_20210925-112426.png)
 
 # Instalación
