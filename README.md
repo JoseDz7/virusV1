@@ -20,25 +20,32 @@
 
 - Si deseas apoyarme con una estrella en mis repositorios >>> [sharkcode](https://github.com/piratainformatico2)
 
-- ` NOTA: El script solo funciona en termux `
+- ` NOTA: Creado por : José Díaz  `
 </details>
 
 ## Menu inicial :
 ![Image text](https://github.com/piratainformatico2/virusV1/blob/main/Images/Screenshot_20210925-112426.png)
 
-# Instalación
+## Instalacion :
 
-* ` apt-get update && apt-get upgrade -y `
+~~~
+https://github.com/piratainformatico2/LocalXpose
+~~~
 
-* ` git clone https://github.com/piratainformatico2/virusV1 `
-* ` cd virusV1 `
-* ` chmod +x exe.sh `
-* ` bash exe.sh or ./exe.sh ` 
+* `apt update && apt upgrade -y`
 
-# Créditos :
-* ` Todo el script me pertenece totalmente a mi🎮 `
+* `git clone https://github.com/piratainformatico2/LocalXpose`
 
-* ` Si gustas contactame => 2283821202 (MX) ` 
+* `cd LocalXpose`
+
+* `chmod +x *`
+
+* `./Local.sh`
+
+---
+###### ` Puedes desofuscar, pero no copiar!! ` 
+###### `By: José Díaz +52 2283821202` 🇲🇽🇲🇽
+---
 
 
 <!-- MarkDown Links & Images -->
