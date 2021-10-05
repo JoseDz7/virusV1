@@ -29,18 +29,18 @@
 ## Instalacion :
 
 ~~~
-https://github.com/piratainformatico2/LocalXpose
+https://github.com/piratainformatico2/virusV1
 ~~~
 
 * `apt update && apt upgrade -y`
 
-* `git clone https://github.com/piratainformatico2/LocalXpose`
+* `git clone https://github.com/piratainformatico2/virusV1`
 
-* `cd LocalXpose`
+* `cd virusV1`
 
 * `chmod +x *`
 
-* `./Local.sh`
+* `./virusV1`
 
 ---
 ###### ` Puedes desofuscar, pero no copiar!! ` 
