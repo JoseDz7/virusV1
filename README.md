@@ -1,7 +1,8 @@
-# virusV1
-Este un script pequeño pero muy poderoso me gustaría que descubras lo que puede hacer por tu propia cuenta🎮
-
 <h1 align="center"><a href="https://github.com/piratainformatico2"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖sharkcode᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
+
+
+<p align="center"><img src="https://github.com/piratainformatico2/packages/blob/main/Images/20210928_223304.gif
+
 
 ## Iniciando..
 El uso de este script es responsabilidad de quién lo ocupa no me hago responsable del mal uso que se le dé -sharkcode
