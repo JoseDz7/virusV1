@@ -40,7 +40,7 @@ https://github.com/piratainformatico2/virusV1
 
 * `chmod +x *`
 
-* `./virusV1`
+* `./exe.sh`
 
 ---
 ###### `:) Puedes desofuscar, pero no copiar!! ` 
