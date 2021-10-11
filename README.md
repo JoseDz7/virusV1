@@ -48,7 +48,7 @@ https://github.com/piratainformatico2/virusV1
 ---
 
 
-<!-- MarkDown Links & Images -->
+<!-- NO COPIAR att José Díaz -->
 [version]: https://img.shields.io/badge/Versi%C3%B3n-script%3A%20V.1.0-green
 [tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Userland%20%7C%20Termux-blue
 [autor]: https://img.shields.io/badge/Author-%40Jose_Diaz-red
